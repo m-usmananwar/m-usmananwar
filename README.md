@@ -5,8 +5,9 @@ I’m a passionate developer focused on building robust web applications using m
 
 - 🌱 I’m currently learning Design Patterns and AWS.
 - 🚀 I’m always looking for ways to optimize and scale applications for better performance.
-- 💬 Ask me about PHP Laravel.
+- 💬 Ask me about PHP, Laravel, and RESTFUL APIS.
 - 📫 How to reach me: usmananwar916@gmail.com
+- 📝 I also write articles about development. You can check them out on [Medium](https://medium.com/@m-usmananwar).
 
 ## 🛠 Skills
 - **Backend:** PHP, Laravel, MySQL
@@ -15,7 +16,6 @@ I’m a passionate developer focused on building robust web applications using m
 
 ## 🌐 Connect with me
 - [LinkedIn](https://www.linkedin.com/in/m-usmananwar/)
-- [Medium](https://medium.com/@m-usmananwar)
 
 ## 💼 Professional Profiles
 - [Fiverr](https://www.fiverr.com/web_devninja)
