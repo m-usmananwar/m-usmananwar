@@ -1,16 +1,16 @@
 # Hi, I'm Muhammad Usman Anwar 👋
 
 ## About Me
-I’m a passionate developer focused on building robust web applications using modern technologies, especially Laravel. I love leveraging the power of Laravel to create efficient and scalable applications.
+I’m a passionate developer focused on building robust web applications using modern technologies, especially Laravel and Node Js.
 
-- 🌱 I’m currently learning Design Patterns and AWS.
+- 🌱 I’m currently learning Design Patterns and Node Js.
 - 🚀 I’m always looking for ways to optimize and scale applications for better performance.
 - 💬 Ask me about PHP, Laravel, and RESTFUL APIS.
 - 📫 How to reach me: usmananwar916@gmail.com
 - 📝 I also write articles about development. You can check them out on [Medium](https://medium.com/@m-usmananwar).
 
 ## 🛠 Skills
-- **Backend:** PHP, Laravel, MySQL
+- **Backend:** PHP, Laravel, Node Js, MySQL, MongoDB
 - **Frontend:** Vue.js, Nuxt.js, Tailwind CSS
 - **DevOps:** EC2, S3
 
