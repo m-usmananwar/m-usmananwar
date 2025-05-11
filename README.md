@@ -1,22 +1,20 @@
-# Hi, I'm Muhammad Usman Anwar 👋
+# Muhammad Usman Anwar 👋
 
-## About Me
-I’m a passionate developer focused on building robust web applications using modern technologies, especially Laravel and Node Js.
-
-- 🌱 I’m currently learning Design Patterns and React.js.
-- 🚀 I’m always looking for ways to optimize and scale applications for better performance.
-- 💬 Ask me about PHP, Laravel, and RESTFUL APIS.
+  I’m a software engineer who enjoys building reliable web applications using tools like Laravel and Nest.js. I focus on writing clean code and learning new ways to improve my work.
+- 🌱 Currently learning design patterns.
+- 🚀 I like finding ways to make apps run better and smoother.
+- 💬 You can ask me about PHP, Laravel, JavaScript, or REST APIs.
 - 📫 How to reach me: usmananwar916@gmail.com
-- 📝 I also write articles about development. You can check them out on [Medium](https://medium.com/@m-usmananwar).
+- 📝 I write about development on [Medium](https://medium.com/@m-usmananwar).
 
 ## 🛠 Skills
-- **Backend:** PHP, Laravel, Node.js, MySQL, MongoDB
-- **Frontend:** React.js, Vue.js, Tailwind CSS
+- **Backend:** PHP, Laravel, JS, Nest.js, MySQL
+- **Frontend:** React.js, Vue.js
 - **DevOps:** EC2, S3
 
 ## 🌐 Connect with me
 - [LinkedIn](https://www.linkedin.com/in/m-usmananwar/)
 
-## 💼 Professional Profiles
+## 💼 Work with me
 - [Fiverr](https://www.fiverr.com/web_devninja)
 - [Upwork](https://www.upwork.com/freelancers/~01001c13a1a4aee834)
